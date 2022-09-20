@@ -2,7 +2,7 @@
   "name": "nodebird",
   "version": "1.0.0",
   "description": "익스프레스로 만든 sns",
-  "main": "pratice.js",
+  "main": "app.js",
   "scripts": {
     "start": "nodemon app"
   },
